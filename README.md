@@ -9,8 +9,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: http://www.entypo.com/images/twitter.svg (twitter icon without padding)
-[2.2]: http://www.entypo.com/images/linkedin.svg(LinkedIn icon without padding)
+[1.2]: https://img.icons8.com/officexs/2x/twitter.png (twitter icon without padding)
+[2.2]: https://img.icons8.com/officexs/2x/linkedin.png (LinkedIn icon without padding)
 
 <!-- Links to my social media accounts -->
 
