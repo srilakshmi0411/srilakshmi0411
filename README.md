@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Deep Learning** Project
 - 🌱 I’m currently learning **Deep Learning & OpenCV**
-- 👯 I’m looking to collaborate on **Deep Learning or Machine Learning** Project
+- 👯 I’m looking to collaborate on **Machine Learning or Deep Learning** Project
 - 📫 How to reach me:    
 
     - 📧 Mail ID: srilakshmikrishna98@gmail.com   
