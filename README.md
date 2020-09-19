@@ -3,8 +3,9 @@
 - 🔭 I’m currently working on **Deep Learning** Project
 - 🌱 I’m currently learning **Deep Learning & OpenCV**
 - 👯 I’m looking to collaborate on **Deep Learning or Machine Learning** Project
-- 📫 How to reach me:
-    - 📧 Mail ID: srilakshmikrishna98@gmail.com           
+- 📫 How to reach me:    
+
+    - 📧 Mail ID: srilakshmikrishna98@gmail.com   
     
     - [![Twitter][1.2]][1]    [![LinkedIn][2.2]][2] 
 
