@@ -15,4 +15,4 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <!-- Links to my social media accounts -->
 
 [1]: https://twitter.com/Srilakshmikris?s=08
-[2]: www.linkedin.com/in/srilakshmi411
+[2]: https://www.linkedin.com/in/srilakshmi411/
