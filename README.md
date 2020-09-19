@@ -6,9 +6,7 @@
 - 📫 How to reach me:
     - 📧 Mail ID: srilakshmikrishna98@gmail.com           
     
-    - [![Twitter][1.2]][1]  
-    
-    - [![LinkedIn][2.2]][2] 
+    - [![Twitter][1.2]][1]    [![LinkedIn][2.2]][2] 
 
 <!-- Icons -->
 
@@ -19,3 +17,4 @@
 
 [1]: https://twitter.com/Srilakshmikris?s=08
 [2]: https://www.linkedin.com/in/srilakshmi411/
+  
