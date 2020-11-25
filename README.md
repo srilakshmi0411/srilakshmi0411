@@ -1,4 +1,4 @@
-### Hi there, I'm Srilakshmi👋🏻
+### Hi there, I'm Srilakshmi
 
 - 🔭 I’m currently working on **Deep Learning** Project
 - 🌱 I’m currently learning **Deep Learning & OpenCV**
